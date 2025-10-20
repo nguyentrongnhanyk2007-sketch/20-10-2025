@@ -15,9 +15,9 @@ onload = () => {
 
             var letterLines = [
              "Hôm Nay Là Ngày 20/10 Là Ngày Phụ Nữ Việt Nam!",
-            "Chúng Tớ Xin Chúc Các Bạn Nữ YK25C Mau Ăn Chóng Lớn Và Ngoan Ngoãn.Chúc Các Bạn Luôn Luôn Hạnh Phúc Và Luôn Nở Nụ Cười Trên Môi Nhé Và Đặc Biệt Là Không Được Suy Nghĩ Gì Tiêu Cực Nhé ",
-            " Đặc Biệt Là Chúc Các Bạn Nữ Ngày Càng Trở Nên Xinh Đẹp Hơn,Gặp Thật Nhiều May Mắn Trong Cuộc Sống Nhé ",
-            " Và Đặc Biệt Là Chúc Các Bạn Sớm Đạt Ước Mơ Của Mình , Có Tất Cả Nhưng TRừ Vất Vả Ra Nhéeeeee  "
+            "Chúng Tớ Xin Chúc Các Bạn Nữ YK25C Mau Ăn Chóng Lớn Và Ngoan Ngoãn.Chúc Các Bạn Luôn Luôn Hạnh Phúc Và Luôn Nở Nụ Cười Trên Môi .  Đặc Biệt Là Không Được Suy Nghĩ Gì Tiêu Cực Nhé ",
+            " Chúc Các Bạn Nữ Ngày Càng Trở Nên Xinh Đẹp Hơn,Gặp Thật Nhiều May Mắn Trong Cuộc Sống Nhé ",
+            " Và Cuối Cùng Là Chúc Các Bạn Sớm Đạt Ước Mơ Của Mình , Có Tất Cả Nhưng TRừ Vất Vả Ra Nhéeeeee  "
         ];
     
             envelope.click(function () {
